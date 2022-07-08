@@ -1,4 +1,4 @@
-# star_branch
+# QYOUNG_branch
 
 별찍기 프로그램
 
